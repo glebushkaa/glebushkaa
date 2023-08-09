@@ -1,6 +1,6 @@
 # **Hi there, I'm Gleb and I'm android developer🥳**
 
-## My experince — 1 year👾 <br />
+## My experince — 2 year👾 <br />
 ## Technologies
  **`MVVM`** **`Retrofit`** **`Room`** **`Android Jetpack`** **`Hilt`** **`Koin`** **`Android Component`** **`Firebase`** **`Material Components`** **`Google API`** **`Android Jetpack`**
 ## Contact me📪<br />
